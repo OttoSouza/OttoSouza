@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 
 - 🌱 I'm studying ReactJs, React-Native, Node, Typescript, Docker and other conceps. 
 - ⚡ Fun fact: I love dogs, watch movies and series. 
--->
