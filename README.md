@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm studying ReactJs, React-Native, Node, Typescript, Docker and other conceps. 
 - ⚡ Fun fact: I love dogs, watch movies and series. 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OttoSouza&layout=compact&hide_border=true)](https://github.com/OttoSouza/github-readme-stats)
 
 <img align="left" alt="Otto's stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OttoSouza&show_icons=true&hide_border=true" />
