@@ -3,8 +3,12 @@
 My name is Otto and i'm 26 and live in João Pessoa - Pb
 
 ### Some Information
-I'm graduated in Information Systems. Nowadays i'm currently studying post development in web at UNIPE and And I'm a student of rocketSeat.
+I'm graduated in Information Systems. Nowadays I'm currently studying post development in web at UNIPE and And I'm a student of rocketSeat.
 I'm trying to research improving every day to better, to communicate better and I love helping other as much as possible.
+
+### Portfolio
+I made a portfolio to show a little of what I learned and try to show a little of what I am.
+https://portotto.vercel.app/
 
 Here are some ideas to get you started:
 
